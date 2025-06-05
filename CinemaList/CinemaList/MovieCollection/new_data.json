@@ -1,0 +1,493 @@
+{
+    "data": [
+        {
+            "tmdb_id": 1300607,
+            "title": "Lucca's World",
+            "overview": "Решив помочь сыну Лукке, страдающему церебральным параличом, Барбара с семьей отправляется в Индию, чтобы пройти экспериментальное лечение.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/bVUB4WI2vTq46OHu2o1n9HdoloQ.jpg",
+            "release_date": "2025-01-30",
+            "popularity": "629.77",
+            "rating": "7.7",
+            "rating_people_count": 44,
+            "genres": [
+                {
+                    "tmdb_id": 18,
+                    "name": "драма"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1255788,
+            "title": "Садовник",
+            "overview": "Серж - хранитель государственной тайны, теперь в смертельной опасности, когда он, с семьей и садовником - Лео, оказываются в правительственном списке смертников. Чтобы выжить, им предстоит разработать хитроумный план, который позволит им скрыться от преследования и раскрыть все тайны, которые скрывает правительство. Каждый шаг в этом опасном процессе может стать решающим для их судьбы, и они должны научиться доверять друг другу, несмотря на недавние предательства и угрозы...",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/z262AyEUPIbpx5QUUD80Ew2W1s8.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/pqulyfkug9A7TmmRn5zrbRA8TAY.jpg",
+            "release_date": "2025-01-30",
+            "popularity": "610.05",
+            "rating": "6.3",
+            "rating_people_count": 53,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 993710,
+            "title": "Снова в деле",
+            "overview": "Бывшие спецагенты ЦРУ, оставившие службу много лет назад, вынуждены вернуться в смертельно опасный мир шпионажа.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/1wRdecwZaqYsAapO24GQxPQfyqs.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/xZm5YUNY3PlYD1Q4k7X8zd2V4AK.jpg",
+            "release_date": "2025-01-15",
+            "popularity": "1238.26",
+            "rating": "6.6",
+            "rating_people_count": 821,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1410082,
+            "title": "Снайпер: Последний бой",
+            "overview": "Опытный снайпер возглавляет группу специального назначения в Коста-Верде, чтобы помешать опасному торговцу оружием применить смертоносное оружие. Наставляя новичка-стрелка, он борется со своей новой ролью лидера, поскольку миссия становится все более смертоносной.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/ee4Ej5kCfyvI2OPFUf3uAjprFbM.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+            "release_date": "2025-01-21",
+            "popularity": "1068.88",
+            "rating": "6.5",
+            "rating_people_count": 67,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 53,
+                    "name": "триллер"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1114894,
+            "title": "Звёздный путь: Секция 31",
+            "overview": "Император Филиппа Георгиу присоединяется к секретному подразделению Звездного флота, которому поручено защищать Объединенную федерацию планет, и сталкивается лицом к лицу с грехами своего прошлого.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/16m6sjmXikQp0U3RQFRcxPOLJSC.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+            "release_date": "2025-01-15",
+            "popularity": "717.56",
+            "rating": "4.6",
+            "rating_people_count": 127,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 12,
+                    "name": "приключения"
+                },
+                {
+                    "tmdb_id": 18,
+                    "name": "драма"
+                },
+                {
+                    "tmdb_id": 878,
+                    "name": "фантастика"
+                },
+                {
+                    "tmdb_id": 10770,
+                    "name": "телевизионный фильм"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 996821,
+            "title": "Вы сердечно приглашены",
+            "overview": "Организаторы свадеб Марго и Джим бронируют для своих торжеств одно и то же место на одни и те же даты. Героям приходится делить роскошную виллу на острове, что приводит к хаосу и курьёзным ситуациям.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/tcPOoVA13snsPdoQ9TEhz6HxJlr.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/xaNBpBkONtupAVJqQBIW5EZa7xi.jpg",
+            "release_date": "2025-01-29",
+            "popularity": "388.35",
+            "rating": "5.9",
+            "rating_people_count": 205,
+            "genres": [
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1084199,
+            "title": "Компаньон",
+            "overview": "Смерть миллиардера запускает цепочку событий для Айрис и ее друзей во время поездки на выходные в его поместье на берегу озера.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/wxFGXmNmFf9Y38XQVsMIrqIom8f.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+            "release_date": "2025-01-22",
+            "popularity": "354.64",
+            "rating": "7.2",
+            "rating_people_count": 181,
+            "genres": [
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                },
+                {
+                    "tmdb_id": 27,
+                    "name": "ужасы"
+                },
+                {
+                    "tmdb_id": 878,
+                    "name": "фантастика"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1414272,
+            "title": "Belyas",
+            "overview": "",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/5oJ6eMfI7B73cWh0VXaa5MzhfBW.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/lTojXQmR0XMrUcrupxNVMSJYa7G.jpg",
+            "release_date": "2025-02-07",
+            "popularity": "351.30",
+            "rating": "0.0",
+            "rating_people_count": 0,
+            "genres": [
+                {
+                    "tmdb_id": 18,
+                    "name": "драма"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 604685,
+            "title": "Охота на воров 2: Пантера",
+            "overview": "Большой Ник возвращается на охоту. В этот раз его цель находится в Европе: Донни теперь крутится в коварном и непредсказуемом мире воров и драгоценностей, а также связан со знаменитой мафией «Пантера», с которой планирует грандиозное ограбление крупнейшей в мире алмазной биржи.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/5AwHpKJ2tFyx3VglG1NFlEEmGFW.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/mKIxSo3p1QKlsdegcOwapcbiV74.jpg",
+            "release_date": "2025-01-08",
+            "popularity": "329.23",
+            "rating": "6.7",
+            "rating_people_count": 194,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 80,
+                    "name": "криминал"
+                },
+                {
+                    "tmdb_id": 53,
+                    "name": "триллер"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 957119,
+            "title": "Плохой парень и я",
+            "overview": "Даллас, обремененная, но упрямая танцовщица, полна решимости поступить в лучшую танцевальную школу в стране — альма-матер ее покойной матери. Однако эта мечта внезапно рушится, когда наглая, но тайно скорбящая звезда футбола Дрейтон врывается в ее жизнь со своей уникальной историей. Смогут ли они вместе воплотить свои мечты или их мечты останутся на обочине?",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/1eWYiTnzmxt6ctDF0K2LIzPd9O0.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/h3fwlwHotd3JfV13HdW0mxDcxPD.jpg",
+            "release_date": "2025-02-06",
+            "popularity": "275.42",
+            "rating": "4.7",
+            "rating_people_count": 16,
+            "genres": [
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                },
+                {
+                    "tmdb_id": 10749,
+                    "name": "мелодрама"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1155281,
+            "title": "封神第二部：战火西岐",
+            "overview": "",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/5bBgvH3hTxlANUsLP1ov0lEKmJp.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/h0BUSRZlU7Oy0bBBa1pQfTp9P2I.jpg",
+            "release_date": "2025-01-29",
+            "popularity": "211.48",
+            "rating": "5.8",
+            "rating_people_count": 18,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 14,
+                    "name": "фэнтези"
+                },
+                {
+                    "tmdb_id": 10752,
+                    "name": "военный"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 774370,
+            "title": "Догмен: Пушистая справедливость",
+            "overview": "Догмен это полу-человек-полу-собака, он поклялся защищать и служить, упорно преследуя суперзлодея кота Пити.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/4GXZM8pL565sokou52zY2JZaK96.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+            "release_date": "2025-01-24",
+            "popularity": "202.66",
+            "rating": "7.4",
+            "rating_people_count": 29,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 16,
+                    "name": "мультфильм"
+                },
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                },
+                {
+                    "tmdb_id": 10751,
+                    "name": "семейный"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1357305,
+            "title": "唐探1900",
+            "overview": "",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/qzD4sd7gZRGS16BpWT8o0voaG4I.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/p23kiJvHLTEzVFYayGa3WqEluc1.jpg",
+            "release_date": "2025-01-29",
+            "popularity": "179.76",
+            "rating": "6.1",
+            "rating_people_count": 19,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                },
+                {
+                    "tmdb_id": 9648,
+                    "name": "детектив"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 299534,
+            "title": "Мстители: Финал",
+            "overview": "После разрушительных событий в \"Мстители: Войны бесконечности\", вселенная лежит в руинах. Оставшиеся в живых участники команды Мстителей снова объединяются в попытке восстановить баланс во вселенной.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/dzAtuccZlvtcussbdZxpF4dkrB5.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "release_date": "2019-04-24",
+            "popularity": "118.07",
+            "rating": "8.2",
+            "rating_people_count": 25974,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 12,
+                    "name": "приключения"
+                },
+                {
+                    "tmdb_id": 878,
+                    "name": "фантастика"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 299536,
+            "title": "Мстители: Война бесконечности",
+            "overview": "Пока Мстители и их союзники продолжают защищать мир от различных опасностей, с которыми не смог бы справиться один супергерой, новая угроза возникает из космоса: Танос. Межгалактический тиран преследует цель собрать все шесть Камней Бесконечности — артефакты невероятной силы, с помощью которых можно менять реальность по своему желанию. Всё, с чем Мстители сталкивались ранее, вело к этому моменту — судьба Земли никогда ещё не была столь неопределённой.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/n3PDUmM7Scg63LjfpmkOXtdOPoe.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "release_date": "2018-04-25",
+            "popularity": "192.04",
+            "rating": "8.2",
+            "rating_people_count": 30129,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 12,
+                    "name": "приключения"
+                },
+                {
+                    "tmdb_id": 878,
+                    "name": "фантастика"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 24428,
+            "title": "Мстители",
+            "overview": "Локи, сводный брат Тора, возвращается, и в этот раз он не один. Земля на грани порабощения, и только лучшие из лучших могут спасти человечество.  Ник Фьюри, глава международной организации Щ.И.Т., собирает выдающихся поборников справедливости и добра, чтобы отразить атаку. Под предводительством Капитана Америки Железный Человек, Тор, Невероятный Халк, Соколиный глаз и Чёрная Вдова вступают в войну с захватчиком.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/7SCa2Uw4sdTkn7mGMAhq0AkSC6Y.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+            "release_date": "2012-04-25",
+            "popularity": "149.73",
+            "rating": "7.7",
+            "rating_people_count": 31159,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 12,
+                    "name": "приключения"
+                },
+                {
+                    "tmdb_id": 878,
+                    "name": "фантастика"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1412113,
+            "title": "Squid Game: Making Season 2",
+            "overview": "",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/zBxRY5qbwyVHzv72OSshrb0Dob5.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/htMKNsBtUhtcqEFk8DHcpkGgaKu.jpg",
+            "release_date": "2025-01-02",
+            "popularity": "271.41",
+            "rating": "8.5",
+            "rating_people_count": 248,
+            "genres": [
+                {
+                    "tmdb_id": 99,
+                    "name": "документальный"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1126166,
+            "title": "Особо опасный пассажир",
+            "overview": "Маршал авиации, перевозящая преступника на маленьком самолете, оказывается в ловушке, когда подозревает, что их пилот не тот, за кого себя выдает.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/oifl3tfR9c4GhWwhJ8m0d6ummZH.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg",
+            "release_date": "2025-01-22",
+            "popularity": "227.33",
+            "rating": "6.1",
+            "rating_people_count": 63,
+            "genres": [
+                {
+                    "tmdb_id": 28,
+                    "name": "боевик"
+                },
+                {
+                    "tmdb_id": 80,
+                    "name": "криминал"
+                },
+                {
+                    "tmdb_id": 53,
+                    "name": "триллер"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1212142,
+            "title": "Как Бы Беременна",
+            "overview": "Когда план Лэйни осесть и завести семью терпит крах, она надевает накладной живот, сплетает паутину лжи — и случайно находит мужчину своей мечты.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/6r1stvlReYtNoCUKAg0HmTQaqIR.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg",
+            "release_date": "2025-02-04",
+            "popularity": "176.01",
+            "rating": "5.3",
+            "rating_people_count": 55,
+            "genres": [
+                {
+                    "tmdb_id": 35,
+                    "name": "комедия"
+                },
+                {
+                    "tmdb_id": 10749,
+                    "name": "мелодрама"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 1234821,
+            "title": "Мир Юрского периода: Перерождение",
+            "overview": "Спустя пять лет после завоевания мира юрского периода экспедиция отправляется в изолированные экваториальные регионы, чтобы извлечь ДНК из трех огромных доисторических существ для революционного открытия в медицине.",
+            "adult": false,
+            "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/vmoogeQznJNs86Sh2ddqjLMxPZk.jpg",
+            "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/xyAvU9WrfQLCCU2VxLF4t7EMXEF.jpg",
+            "release_date": "2025-07-02",
+            "popularity": "222.01",
+            "rating": "0.0",
+            "rating_people_count": 0,
+            "genres": [
+                {
+                    "tmdb_id": 12,
+                    "name": "приключения"
+                },
+                {
+                    "tmdb_id": 878,
+                    "name": "фантастика"
+                },
+                {
+                    "tmdb_id": 53,
+                    "name": "триллер"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "current_page": 1,
+        "total": 26,
+        "last_page": 2,
+        "per_page": 20,
+        "from": 1,
+        "to": 20
+    },
+    "result": "success"
+}

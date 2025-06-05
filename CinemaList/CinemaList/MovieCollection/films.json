@@ -1,0 +1,108 @@
+{
+    "data": {
+        "tmdb_id": 557,
+        "title": "Человек-паук",
+        "overview": "Еще вчера Питер Паркер был обычным школьником, которого все считали неудачником и занудой, но в один прекрасный день с ним происходит чудо. Питера кусает паук-мутант, после чего с нескладным юношей происходит фантастическая метаморфоза! И вскоре Человеку-Пауку придется сразиться с Зеленым Гоблином - терроризирующим город монстром на летающем глайдере. В этой великой битве решится не только их судьба, но и судьбы тысяч жителей города...",
+        "adult": false,
+        "poster": "https://s3kino-list.storage.yandexcloud.net/films/posters/tCZrHq6CMgtiMbelgnroyVWF5uV.jpg",
+        "backdrop_image": "https://s3kino-list.storage.yandexcloud.net/films/backdrops/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+        "release_date": "2002-05-01",
+        "popularity": "110.22",
+        "rating": "7.3",
+        "rating_people_count": 19301,
+        "created_at": "2025-02-09T16:18:56.000000Z",
+        "updated_at": "2025-02-10T19:00:01.000000Z",
+        "runtime": 211,
+        "revenue": 821708551,
+        "tagline": "«Переверните свой мир вверх дном»",
+        "status": "Released",
+        "video": "https://www.youtube.com/watch?v=yPPrM4Iq6E4",
+        "actors": [
+            {
+                "tmdb_id": 2219,
+                "name": "Тоби Магуайр",
+                "popularity": "41.26",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg"
+            },
+            {
+                "tmdb_id": 5293,
+                "name": "Уиллем Дефо",
+                "popularity": "49.42",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+            },
+            {
+                "tmdb_id": 205,
+                "name": "Кирстен Данст",
+                "popularity": "30.81",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/5dI5s8Oq2Ook5PFzTWMW6DCXVjm.jpg"
+            },
+            {
+                "tmdb_id": 17051,
+                "name": "Джеймс Франко",
+                "popularity": "34.64",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+            },
+            {
+                "tmdb_id": 19153,
+                "name": "Клифф Робертсон",
+                "popularity": "8.58",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+            },
+            {
+                "tmdb_id": 18998,
+                "name": "Rosemary Harris",
+                "popularity": "9.92",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/3Mu02enwaF8dFuT195f7esILXns.jpg"
+            },
+            {
+                "tmdb_id": 18999,
+                "name": "Дж.К. Симмонс",
+                "popularity": "51.77",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+            },
+            {
+                "tmdb_id": 20580,
+                "name": "Joe Manganiello",
+                "popularity": "8.90",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/mTdACmitdrwor0Nrv5sr0u123vZ.jpg"
+            },
+            {
+                "tmdb_id": 19468,
+                "name": "Gerry Becker",
+                "popularity": "5.50",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+            },
+            {
+                "tmdb_id": 5502,
+                "name": "Bill Nunn",
+                "popularity": "7.75",
+                "photo": "https://s3kino-list.storage.yandexcloud.net/actors/photos/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+            }
+        ],
+        "studios": [
+            {
+                "tmdb_id": 19551,
+                "name": "Marvel Enterprises",
+                "logo": "https://s3kino-list.storage.yandexcloud.net/studios/logos/2WpWp9b108hizjHKdA107hFmvQ5.png"
+            },
+            {
+                "tmdb_id": 5,
+                "name": "Columbia Pictures",
+                "logo": "https://s3kino-list.storage.yandexcloud.net/studios/logos/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+            }
+        ],
+        "team": [
+            {
+                "tmdb_id": 508,
+                "name": "David Koepp",
+                "job": "Screenplay"
+            },
+            {
+                "tmdb_id": 7623,
+                "name": "Сэм Рэйми",
+                "job": "Director"
+            }
+        ]
+    },
+    "result": "success"
+}

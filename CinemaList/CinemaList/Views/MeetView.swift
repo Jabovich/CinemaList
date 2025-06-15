@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MeetView: View {
     var body: some View {
-        Text("MeetView")
+        DatingView()
     }
 }
 

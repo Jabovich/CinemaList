@@ -12,7 +12,7 @@ struct Movie: Codable, Identifiable {
     let title: String
     let overview: String
     let poster: String
-    let backdropImage: String
+    let backdropImage: String?
     let releaseDate: String
     let popularity: String
     let rating: String

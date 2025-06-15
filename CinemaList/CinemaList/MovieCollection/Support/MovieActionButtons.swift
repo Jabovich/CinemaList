@@ -24,18 +24,33 @@ struct MovieActionButtons: View {
     @State private var selectedRating = ""
     @State private var showRatingPicker = false
     
+    let generator = UINotificationFeedbackGenerator()
+    
     var body: some View {
         Group {
-            if (isWatched && !isScored) || (isFinished && !isScored) {
-                scoreButton
-            } else if !isWatched && isWanted && isFinished {
-                unfinishedButtons
-            } else if isWatched && isScored {
+            // V1
+//            if (isWatched && !isScored) || (isFinished && !isScored) {
+//                scoreButton
+//            } else if !isWatched && isWanted && isFinished {
+//                unfinishedButtons
+//            } else if isWatched && isScored {
+//                ratedButton
+//            } else {
+//                defaultButtons
+//            }
+            
+            // V2
+            if isScored {
                 ratedButton
+            } else if (isWatched || isFinished) {
+                scoreButton
+            } else if isWanted && !isFinished || !timecode.isEmpty {
+                unfinishedButtons
             } else {
                 defaultButtons
             }
-            
+
+            // V3
 //            if (isWatched && !isScored) {//|| (isFinished && isScored) {
 //                scoreButton
 //            } else if !isWatched || isWanted || !isFinished {
@@ -91,16 +106,16 @@ struct MovieActionButtons: View {
                 .foregroundColor(Color(.label))
                 .keyboardType(.numberPad)
 
-            Button("Submit") {
+            Button("Принять") {
                 myRating = selectedRating
                 postRateMovie(id: movieId, rating: myRating)
                 isScored = true
             }
 
-            Button("Cancel", role: .cancel) {
+            Button("Отмена", role: .cancel) {
             }
         } message: {
-            Text("Enter the timecode where you stopped.")
+            Text("Введите время, где вы остановились.")
         }
     }
     
@@ -189,6 +204,7 @@ struct MovieActionButtons: View {
                     isShowingTimecodePicker = true
                     
                     selectedTime = Date()
+                    generator.notificationOccurred(.success)
                 } label: {
                     Text("Не закончил")
                         .frame(maxWidth: .infinity)
@@ -218,7 +234,9 @@ struct MovieActionButtons: View {
             
             Button {
                 isWanted.toggle()
+                timecode = ""
                 postMovieStatus(id: movieId, status: "")
+                generator.notificationOccurred(.success)
             } label: {
                 Text("Убрать")
                     .frame(maxWidth: .infinity)
@@ -254,8 +272,11 @@ struct MovieActionButtons: View {
             .tint(.white.opacity(0.2))
             
             Button {
+                //print("isWanted before press is \(isWanted)")
                 isWanted.toggle()
+                //print("isWanted after press is \(isWanted)")
                 postMovieStatus(id: movieId, status: "want_to_watch")
+                generator.notificationOccurred(.success)
             } label: {
                 Text("Добавить")
                     .frame(maxWidth: .infinity)

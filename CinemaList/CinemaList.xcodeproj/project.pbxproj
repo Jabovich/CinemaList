@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E92655ED2DFE485200353A67 /* Vortex in Frameworks */ = {isa = PBXBuildFile; productRef = E92655EC2DFE485200353A67 /* Vortex */; };
 		E9AAD7C12DEDFB2F003EE996 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = E9AAD7C02DEDFB2F003EE996 /* Kingfisher */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E92655ED2DFE485200353A67 /* Vortex in Frameworks */,
 				E9AAD7C12DEDFB2F003EE996 /* Kingfisher in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -118,6 +120,7 @@
 			name = CinemaList;
 			packageProductDependencies = (
 				E9AAD7C02DEDFB2F003EE996 /* Kingfisher */,
+				E92655EC2DFE485200353A67 /* Vortex */,
 			);
 			productName = CinemaList;
 			productReference = E980C5CD2D550D58008CB866 /* CinemaList.app */;
@@ -203,6 +206,7 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				E9AAD7BF2DEDFB1C003EE996 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				E92655EB2DFE485200353A67 /* XCRemoteSwiftPackageReference "Vortex" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = E980C5CE2D550D58008CB866 /* Products */;
@@ -569,6 +573,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		E92655EB2DFE485200353A67 /* XCRemoteSwiftPackageReference "Vortex" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/Vortex";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.3;
+			};
+		};
 		E9AAD7BF2DEDFB1C003EE996 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
@@ -580,6 +592,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		E92655EC2DFE485200353A67 /* Vortex */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E92655EB2DFE485200353A67 /* XCRemoteSwiftPackageReference "Vortex" */;
+			productName = Vortex;
+		};
 		E9AAD7C02DEDFB2F003EE996 /* Kingfisher */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = E9AAD7BF2DEDFB1C003EE996 /* XCRemoteSwiftPackageReference "Kingfisher" */;

@@ -13,7 +13,7 @@ struct MovieDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading) {
-                AsyncImage(url: URL(string: movie.backdropImage)) { image in
+                AsyncImage(url: URL(string: movie.backdropImage ?? "")) { image in
                     image.resizable()
                         .scaledToFill()
                         .frame(height: 200)

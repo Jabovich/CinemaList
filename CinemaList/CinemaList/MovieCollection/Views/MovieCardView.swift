@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Kingfisher
 
 public struct MovieCardView: View {
     @Environment(\.dismiss) private var dismiss
